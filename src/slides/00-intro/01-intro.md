@@ -1,7 +1,7 @@
 ## Today's Talk
 
-* Kafka Ecosystem (boiled down)
-* Kafka Connect
-  * Source Connectors
-  * Sink Connectors
-  * Deploying a Connector
+* Apache Kafka
+  * What is it?
+  * Why use it?
+  * How can I use it?
+* A Typical Kafka Ecosystem

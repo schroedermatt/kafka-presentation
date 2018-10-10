@@ -20,6 +20,3 @@
 
 ![ksql](./images/KAFKA_KSQL.png)
 
----
-
-![ksql](./images/KAFKA_KSQL_SOURCE.png)

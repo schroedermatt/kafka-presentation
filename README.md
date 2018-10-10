@@ -1,15 +1,11 @@
-# Kafka Connect Presentation
+# Kafka Presentation
 
-This talk is an overview of the Kafka Connect service.
+This is a lightning talk covering Kafka 101.
 
 * Kafka Ecosystem Overview
-* Source Connectors
-* Sink Connectors
-* Connector Deployment
-
-Hosted with Netlify - https://kafkaconnect.schroedermatt.com/
+  
+Hosted with Netlify - https://kafka.schroedermatt.com/
 
 ## Talk Date(s)
 
-* August 16, 2018 - Work from OPI Day
-* October 3, 2018 - MSSE Meetup
+* TBD
