@@ -21,8 +21,9 @@ Apache Kafka is an <span style="color:#c82506">**open source**</span> distribute
 
 * Streams of _records_ are stored in _topics_
 * Topics are partitioned and replicated across _brokers_
+* Consumers track their progress via the _offset_
 
-![topic anatomy](./images/topic-anatomy.png)
+![basic topic](./images/basic-topic.png)
 
 <aside class="notes">
 
@@ -32,6 +33,10 @@ Apache Kafka is an <span style="color:#c82506">**open source**</span> distribute
   * Offset is a consumer's bookmark
 
 </aside>
+
+---
+
+![topic replication](./images/topic-replication.jpg)
 
 ---
 
