@@ -8,14 +8,14 @@ There are a variety of ways to start playing with Kafka!
 
 ---
 
-## Confluent Open Source
+## Confluent Open Source (Local Install)
 
 Your [one stop shop](https://www.confluent.io/download/) for everything Kafka.
 
-- Brokers
-- Schema Registry
-- Kafka Connect
-- KSQL
+* Brokers
+* Schema Registry
+* Kafka Connect
+* KSQL
 
 ---
 
